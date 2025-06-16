@@ -5,7 +5,7 @@ import pandas as pd
 # 気象庁が提供する天気予報JSONデータを使用して、
 # 千葉県の天気予報（本日・明日・明後日）を取得するプログラム
 # エンドポイント: https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json
-# 地方コード: 120000（東京地方）
+# 地方コード: 120000（千葉地方）
 # =============================================
 
 API_URL = "https://www.jma.go.jp/bosai/forecast/data/forecast/120000.json"
